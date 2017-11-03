@@ -18,7 +18,8 @@ export default {
       tasklist: [
           { project: "Arma tu espacio", client: "Promart", task:"Meeting", notes: "Planning", time: 100 },
           { project: "Arma tu espacio", client: "Promart", task:"Meeting", notes: "Review", time: 120 },
-          { project: "Arma tu espacio", client: "Promart", task:"Project Management", notes: "User Stories", time: 50 }
+          { project: "Arma tu espacio", client: "Promart", task:"Project Management", notes: "User Stories", time: 50 },
+          { project: "Arma tu espacio", client: "Promart", task:"Project Management", notes: "Testing create user", time: 90 }
       ],
       totaltime: 0
     }
